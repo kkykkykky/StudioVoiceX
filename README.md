@@ -1,6 +1,6 @@
 # StudioVoiceX (aka SPEAK UP! 📢)
 
-Makes all voices in the scene louder so you can finally hear your girls while maintaining social distance.
+Makes all voices in your AI/HS2 Studio scene louder so you can finally hear your girls while maintaining social distance.
 The effect is adjustable in Plugin Settings by changing the min and max distances.
 
 For technical details of what the two properties actually do, please read the [manual](https://docs.unity3d.com/2018.4/Documentation/Manual/class-AudioSource.html) 📖
