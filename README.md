@@ -1,4 +1,4 @@
-# StudioVoiceX
+# StudioVoiceX (aka SPEAK UP!)
 
 Makes all voices in the scene louder so you can finally hear your girls while maintaining social distance.
 The effect is adjustable in Plugin Settings by changing the min and max distances.
